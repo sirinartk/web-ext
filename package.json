@@ -76,7 +76,7 @@
     "update-notifier": "3.0.0",
     "watchpack": "1.6.0",
     "yargs": "13.2.4",
-    "zip-dir": "1.0.2"
+    "zip-dir": "2.0.0"
   },
   "devDependencies": {
     "@babel/core": "7.4.5",
